@@ -5,13 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="973f3e8a-622e-4f15-ba02-64157f77e2e5" name="Changes" comment="Initial Commit">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java_Basics.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaPrint.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/greet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AddTwoNum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AddTwoNum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Hello_Krishna.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Hello_Krishna.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MultiplicationTable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MultiplicationTable.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,21 +27,21 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "sachinkisna"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;sachinkisna&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/sachinkisna/My-Java-Practice.git",
-    "accountId": "ee491e33-5189-458b-9d5f-cc58dea5bb46"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/sachinkisna/My-Java-Practice.git&quot;,
+    &quot;accountId&quot;: &quot;ee491e33-5189-458b-9d5f-cc58dea5bb46&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 3
-}]]></component>
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
   <component name="ProjectId" id="2qF6ejaNQyI56T4zqaIHd174Lxm" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -56,6 +55,8 @@
     "Application.AddTwoNum.executor": "Run",
     "Application.ArithmentiOperations.executor": "Run",
     "Application.Hello_Krishna.executor": "Run",
+    "Application.JavaPrint.executor": "Run",
+    "Application.MultiplicationTable.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
@@ -79,7 +80,15 @@
       <option name="project" value="LOCAL" />
       <updated>1734247621664</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Initial Commit">
+      <option name="closed" value="true" />
+      <created>1734502445542</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1734502445542</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
